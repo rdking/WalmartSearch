@@ -1,0 +1,24 @@
+{
+  "name": "walmartsearch",
+  "version": "1.0.0",
+  "description": "Coding challenge for a walmart search filter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdking/WalmartSearch.git"
+  },
+  "author": "Ranando D. King",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/rdking/WalmartSearch/issues"
+  },
+  "homepage": "https://github.com/rdking/WalmartSearch#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jest": "^24.8.0"
+  }
+}
